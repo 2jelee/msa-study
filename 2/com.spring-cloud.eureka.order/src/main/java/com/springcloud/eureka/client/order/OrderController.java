@@ -10,9 +10,11 @@ import org.springframework.web.bind.annotation.RestController;
 public class OrderController {
     private final OrderService orderService;
 
-    @GetMapping("/order/{orderId}")
-    public String getOrder(@PathVariable("orderId") String orderId) {
-        return orderService.getOrder(orderId);
+    @GetMapping("/order")
+//    public String getOrder(@PathVariable("orderId") String orderId) {
+    public String getOrder() {
+//        return orderService.getOrder(orderId);
+        return "Order Detail";
     }
 
 }
