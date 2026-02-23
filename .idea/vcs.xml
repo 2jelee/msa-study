@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/2/com.spring-cloud.eureka.order" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/com.spring-cloud.eureka.product" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/com.spring-cloud.eureka.server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.spring-cloud.eureka.client.first" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.spring-cloud.eureka.client.second" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.spring-cloud.eureka.server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.spring-cloud.resilience4j.sample" vcs="Git" />
+  </component>
+</project>
